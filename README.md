@@ -1,2 +1,2 @@
 # ECONOMETRICSII-CIDE
-Microeconometrics Assignments from CIDE, Fall 2024
+Microeconometrics Assignments at CIDE, Fall 2024
